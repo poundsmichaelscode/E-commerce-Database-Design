@@ -42,6 +42,9 @@ This project is a collaborative database design for an e-commerce platform. It i
 ## 👥 Team Collaboration
 
 This project was built as a group effort, with shared responsibilities across ERD design, SQL schema creation, and GitHub management. Everyone contributed to each phase of the design process.
+TEAM MEMBER Profile Link:
+https://github.com/Rednax3la
+https://github.com/clarris-c
 
 ## 📦 Setup Guide
 
